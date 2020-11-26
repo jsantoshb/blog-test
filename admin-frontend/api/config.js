@@ -1,0 +1,1 @@
+process.env.BASE_URL = 'localhost:3002';
